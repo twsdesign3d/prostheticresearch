@@ -1,0 +1,4 @@
+runpod
+httpx
+beautifulsoup4
+lxml
